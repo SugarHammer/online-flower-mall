@@ -3,6 +3,7 @@
 #### 介绍
 线上鲜花商城
 有BUG可留言加微
+> VX：13033494971
 
 #### 软件架构
 Java + SpringBoot + Vue + Mysql
@@ -30,12 +31,22 @@ Java + SpringBoot + Vue + Mysql
 
 ### 部分功能演示
 #### 管理员功能
-
-
+![输入图片说明](photo/2-1%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95.png)
+![输入图片说明](photo/2-2%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/2-3%E9%B2%9C%E8%8A%B1%E5%88%86%E7%B1%BB.png)
+![输入图片说明](photo/2-4%E9%B2%9C%E8%8A%B1%E4%BF%A1%E6%81%AF.png)
+![输入图片说明](photo/2-5%E5%AE%A2%E6%88%B7%E8%AF%84%E4%BB%B7%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/2-6%E5%95%86%E5%93%81%E8%B5%84%E8%AE%AF%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/2-7%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85%E7%AE%A1%E7%90%86.png)
 
 #### 用户功能
-
-
+![输入图片说明](photo/1-1%E7%94%A8%E6%88%B7%E9%A6%96%E9%A1%B5.png)
+![输入图片说明](photo/1-2%E9%B2%9C%E8%8A%B1%E5%95%86%E5%93%81.png)
+![输入图片说明](photo/1-3%E9%B2%9C%E8%8A%B1%E8%AF%A6%E6%83%85.png)
+![输入图片说明](photo/1-4%E5%95%86%E5%93%81%E8%B5%84%E8%AE%AF.png)
+![输入图片说明](photo/1-5%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
+![输入图片说明](photo/1-6%E8%B4%AD%E7%89%A9%E8%BD%A6.png)
+![输入图片说明](photo/1-7%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D.png)
 
 ### 环境需求(可免费提供)
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
